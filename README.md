@@ -1,1 +1,1 @@
-Uma mini calculadora com calculos básicos feito em C
+Uma mini calculadora com cálculos básicos feito em C
